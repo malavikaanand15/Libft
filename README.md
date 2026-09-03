@@ -16,10 +16,6 @@ To compile the library, clone the repository and run `make` inside the root dire
 $ make
 ```
 
-For __bonus__ functions:
-```
-$ make bonus
-```
 
 ### 2. Cleaning all binary (.o) and executable files (.a)
 
